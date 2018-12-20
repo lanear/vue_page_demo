@@ -1,7 +1,7 @@
 <template>
   <div class="page-container">
     <div class="page-header">
-      <span class="blue">&nbsp;&nbsp;白俄园区财务平台</span>
+      <span class="blue">&nbsp;&nbsp;XXXXXX平台</span>
       <i>&nbsp;·&nbsp;</i>
       <span>首页&nbsp;&nbsp;</span>
     </div>
